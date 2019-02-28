@@ -1,0 +1,178 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+<title>404 Page Not Found | University of New Hampshire</title>
+ 
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+<!-- Optional theme -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+  body {
+    margin: 2em 0 3em 0;
+    font-family: 'Droid Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  
+  a, a:link, a:visited {
+    color: #496BA3;
+  }
+  
+  a:hover, a:active {
+    color: #002566;
+  }
+  
+  .navbar, .navbar-form {
+    border: 0;
+  }
+  
+  .navbar-collapse {
+    padding-left: 0;
+  }
+  
+  .navbar-default {
+    background: none;
+    box-shadow:none;
+    -webkit-box-shadow:none;
+    -moz-box-shadow: none;
+  }
+  
+  footer {
+    border-top: 1px solid #999;
+    padding-top: 1em;
+    margin-top: 3em; 
+  }
+  
+  .quicklinks ul {
+    padding-left: 0;
+    font-size: .95em;
+  }
+  
+  .quicklinks li {
+    list-style-type: none;
+    padding-left: 2px;
+  }
+  
+  
+</style>
+
+</head>
+<body>
+<div class="container">
+  
+  <header >
+    <img src="http://www.unh.edu/unh/unh-logo-lockup.jpg" class="img-responsive" alt="UNH Logo" />
+    <nav class="navbar navbar-default" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav  navbar-nav navbar-left">
+          <li><a href="http://www.unh.edu">UNH Home</a></li>
+          <li><a href="http://www.unh.edu/search">Search</a></li>
+          <li><a href="http://www.unh.edu/main/contact-us">Contact</a></li>
+          <li><a href="http://www.unh.edu/directories">Directories</a></li>
+          <li><a href="http://www.unh.edu/map">Map</a></li>
+  
+        </ul>
+      
+        <!-- Search Google -->
+        <form  class="navbar-form navbar-right" role="search" id="searchbox_003036448068276001467:8cauycqqzc0" class="searchform" action="http://www.unh.edu/search/results.html" placeholder="Search UNH">
+          <input name="cx" type="hidden" value="003036448068276001467:8cauycqqzc0" >
+          <input name="q" size="16" type="text">
+          <input name="sa" type="submit" value="Search">
+          <input name="cof" type="hidden" value="FORID:11">
+        </form>
+        <!-- Search Google -->
+      </div>
+    </nav>
+  </header>
+  <div class="jumbotron">
+    <h1><span class=" text-danger">404</span> Page Not Found</h1>
+    <p>The information you are looking for was not found at this location. Use the search tool above or try one of these links to find the information you seek.</p>
+    <p class="visible-xs text-info">Click on the Menu Button to access the search box.</p>
+  </div>
+  
+  <div class="row quicklinks">
+    <div class="col-md-offset-1 col-md-2 col-sm-4 ">
+      <h3>Resources</h3>
+      <ul>
+      	<li><a href="/main/businesses">Businesses</a></li>
+		<li><a href="/main/community">Community</a></li>
+		<li><a href="/main/faculty-staff">Faculty &amp; Staff</a></li>
+		<li><a href="/main/parents">Parents</a></li>
+		<li><a href="/main/students">Students</a></li>
+      </ul>
+    </div>
+    <div class="col-md-2 col-sm-4">
+      <h3>Discover UNH</h3>
+      <ul>
+      <li><a href="http://www.unh.edu/main/admissions">Admissions</a></li>
+		<li><a href="/main/apply">Apply</a></li>
+		<li><a href="/main/colleges-schools">Colleges &amp; Schools</a></li>
+		<li><a href="http://courses.unh.edu/">Course Search</a></li>
+		<li><a href="http://www.unh.edu/financialaid">Financial Aid</a></li>
+		<li><a href="/main/leadership">Leadership</a></li>
+		<li><a href="http://www.unh.edu/static-cpa/mobile/">Mobile App</a></li>
+		<li><a href="/main/degree-programs">Programs of Study</a></li>
+		<li><a href="http://www.unh.edu/works/">UNH Works</a></li>
+      </ul>
+    </div>
+    <div class="col-md-2 col-sm-4">
+      <h3>Quick Links</h3>
+      <ul>
+        <li><a href="/main/alerts">Alerts/Storm</a></li>
+		<li><a href="http://unhwildcats.com/index.aspx">Athletics</a></li>
+		<li><a href="/main/unh-calendar">Calendar &amp; Events</a></li>
+		<li><a href="http://www.unh.edu/main/directories">Directories</a></li>
+		<li><a href="http://www.unh.edu/give/">Give</a></li>
+		<li><a href="/main/map">Maps &amp; Directions</a></li>
+		<li><a href="https://my.unh.edu/">MyUNH</a></li>
+		<li><a href="/main/visit-campus">Take a Tour</a></li>
+      </ul>
+    </div>
+    <div class="col-md-2 col-sm-4"> 
+      <h3>Campuses &amp; Systems</h3>
+      <ul>
+        <li><a href="http://www.unh.edu/">UNH Durham</a></li>
+		<li><a href="http://law.unh.edu/">UNH Law</a></li>
+		<li><a href="http://manchester.unh.edu/">UNH Manchester</a></li>
+		<li><a href="http://www.usnh.edu/">University System Information</a></li>
+      </ul>
+    </div>
+    
+  </div>
+ 
+  <footer class="text-center">
+  <small><span class="contrast-text">Copyright &copy; 2017
+The University of New Hampshire &bull;
+105 Main Street, Durham, NH 03824 &bull; (603) 862-1234 &bull;
+TTY Users: 7-1-1 or 800-735-2964 (Relay NH)<br></span>
+
+    <a href="/main/about-site">About this Site</a> &bull; 
+    <a href="http://www.usnh.edu/about/privacy-policy" target="_blank">Privacy Policies</a> &bull; 
+    <a href="http://www.usnh.edu/about/terms-use" target="_blank">Terms of Use</a> &bull; 
+    <a href="/main/americans-disabilities-act" target="_blank">ADA Acknowledgement</a> &bull;
+    <a href="http://www.unh.edu/institutional-research/student-consumer-information-disclosure">Student Consumer Information</a><br> 
+    
+    <a href="/main/about-unh">About UNH</a> &bull; 
+    <a href="http://www.unh.edu/unhtoday">UNH Today</a> &bull; 
+    <a href="/main/contact-us">Contact Us</a><br>
+    </small>
+  </footer>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+
+</body>
+</html>  
